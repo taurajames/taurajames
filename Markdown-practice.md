@@ -27,7 +27,7 @@ I want to becomwe **better** at programming, stay * consistent* and practise `Ja
 - [x] Creat my personal Website with github pages
 - [ ] Learning JavaScript
 - [ ] Learning Python
-- [ ]learning HTML
+- [ ] Learning HTML
 ## Exercise 7 ; Code Block
 ```javascript
 let name = " Taura James";
