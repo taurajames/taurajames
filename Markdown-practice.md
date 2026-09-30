@@ -37,7 +37,7 @@ console.log("Hello," + name);
 > Keep learning, keep practicing and do not be afraid to make mistake.
 ## About me 
 **Hi, I am Taura Amani James.**
-I am a History and Kiswahili graduand from The University Of Nairobi and graduate of the **ASPIRE LEADERSHIP PROGRAM**.Through my learning journey, i have been taught about ** leadership, problem solving, communication, teamwork, programming, artificial intellingence and technology. Also am learning ** JavaScript, Git, GitHub, HTML and Python** as i develop my programming skills.
+I am a History and Kiswahili graduand from The University Of Nairobi and graduate of the **ASPIRE LEADERSHIP PROGRAM**.Through my learning journey, i have been taught about **leadership, problem solving, communication, teamwork, programming, artificial intellingence and technology.** Also am learning *JavaScript, Git, GitHub, HTML and Python* as i develop my programming skills.
 ### My current Goals are:-
 - Improve my **JavaScript skills**
 - Learn **Python**
