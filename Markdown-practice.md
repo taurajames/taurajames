@@ -25,9 +25,9 @@ I want to becomwe **better** at programming, stay * consistent* and practise `Ja
 - [x] Creat a GitHub account
 - [X] Creat my GitHub account
 - [x] Creat my personal Website with github pages
-- [] Learning JavaScript
-- [] Learning Python
-- []learning HTML
+- [ ] Learning JavaScript
+- [ ] Learning Python
+- [ ]learning HTML
 ## Exercise 7 ; Code Block
 ```javascript
 let name = " Taura James";
@@ -36,14 +36,13 @@ console.log("Hello," + name);
 ### Exercise 8; Blockqoute
 > Keep learning, keep practicing and do not be afraid to make mistake.
 ## About me 
-** Hi, I am Taura Amani James.**
+**Hi, I am Taura Amani James.**
 I am a History and Kiswahili graduand from The University Of Nairobi and graduate of the **ASPIRE LEADERSHIP PROGRAM**.Through my learning journey, i have been taught about ** leadership, problem solving, communication, teamwork, programming, artificial intellingence and technology. Also am learning ** JavaScript, Git, GitHub, HTML and Python** as i develop my programming skills.
 ### My current Goals are:-
-- Improve my **JavaScript** skills
-- Learn ** Python**
+- Improve my **JavaScript skills**
+- Learn **Python**
 - Improve **Git and GitHub skills**
-- Build Website
+- Build **Website**
 - Continue Learning about **AI AND TECHNOLOGY**
-You can find me on [GitHub](https://github.com/taurajames).
+- You can find me on [GitHub](https://github.com/taurajames).
 > Learnig is a journey and practice makes progress.
-
