@@ -44,5 +44,5 @@ I am a History and Kiswahili graduand from The University Of Nairobi and graduat
 - Improve **Git and GitHub skills**
 - Build **Website**
 - Continue Learning about **AI AND TECHNOLOGY**
-- You can find me on [GitHub](https://github.com/taurajames).
+- You can find me on [GitHub](https://taurajames.github.io/taurajames/).
 > Learnig is a journey and practice makes progress.
