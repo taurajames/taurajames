@@ -55,4 +55,4 @@ user.name=taurajames
 - Explore my website built using GitHub pages
 - [Visit my live page](https://taurajames.github.io)
   
-**`KEEP LEARN.KEEP BUILDING. KEEP IMPROVING.`**
+**`KEEP LEARNING.KEEP BUILDING. KEEP IMPROVING.`**
