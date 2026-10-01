@@ -3,8 +3,8 @@
 
 I want to becomwe **better** at programming, stay * consistent* and practise `JavaScript`, `python`, and `HTML`.
 ## Exercise 3; links to get me
--[My GitHub profile](https://github.com/taurajames)
--[Markdown Guide](https://www.markdownguide.org)
+- [My GitHub profile](https://github.com/taurajames)
+- [Markdown Guide](https://www.markdownguide.org)
 ## Exercise 4- List of thing I want to learn
 - Things that i want to learn are :-
 - JavaSacript
