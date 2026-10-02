@@ -53,6 +53,6 @@ user.name=taurajames
 **GitHub:**@taurajames
 ## My live page ##
 - Explore my website built using GitHub pages
-- [Visit my live page](https://taurajames.github.io/taurajames/)
+- [Visit my live page](https://taurajames.github.iO)
   
 **`KEEP LEARNING.KEEP BUILDING. KEEP IMPROVING.`**
